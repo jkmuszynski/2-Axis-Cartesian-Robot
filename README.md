@@ -1,4 +1,4 @@
-# Automated Cartesian XY Transport System
+# Automated Cartesian XY System
 
 A fully functional, 2-axis Cartesian robot built with aluminum V-Slot profiles, driven by NEMA 17 stepper motors, and controlled by an STM32 microcontroller. The project features hardware-generated motion profiles, closed-loop position verification via incremental encoders, and a custom Python/PyQt6 desktop application with a real-time Digital Twin.
 
